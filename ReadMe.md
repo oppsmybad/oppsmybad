@@ -1,6 +1,6 @@
 # 💫 About Me:
 **Tamerlan | 17 | Frontend Developer**  
-🌍 From Grozny, Chechnya  
+🌍 From Chechnya  
 🚀 Passionate about web development, currently focusing on frontend technologies  
 📚 Always learning and exploring new ways to create beautiful, user-friendly websites  
 🖥️ I'm a beginner front-end developer, excited to improve my skills and contribute to amazing projects.
