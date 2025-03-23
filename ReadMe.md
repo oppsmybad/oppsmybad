@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1> Hi there, I'am <a href ="Tamerlan">Tamerlan</a> <h1/>
+<h1> Hi there, I'am <a href ="https://github.com/oppsmybad/oppsmybad">Tamerlan</a> <h1/>
 
 
 # 💻 Tech Stack:
